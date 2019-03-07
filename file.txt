@@ -4,7 +4,11 @@ welcome
 Ramesh
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 rammi welcome too this file
+=======
+rammi
+>>>>>>> 57b3559... Welcome to testing
 =======
 rammi
 >>>>>>> 57b3559... Welcome to testing
