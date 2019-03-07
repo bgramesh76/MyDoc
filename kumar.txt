@@ -1,4 +1,9 @@
 RAmesh /kumar
 karthik bro
 bhasha ramesh
+<<<<<<< HEAD
 what is this error
+=======
+hello guru
+welcome`
+>>>>>>> b12335b... Add to ven
